@@ -33,7 +33,7 @@ A simple yet powerful console-based AI chatbot built with C# (.NET) using OpenAI
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/ChatbotApp.git](https://github.com/your-username/ChatbotApp.git)
+   git clone [https://github.com/mosaabdo/ChatBot_MosBot.git)
    ------------------------------------
 
 ## Open the project in Visual Studio or VS Code.
